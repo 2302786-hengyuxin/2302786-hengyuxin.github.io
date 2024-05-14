@@ -2,65 +2,51 @@
 title: "About Me"
 author: "Heng Yu Xin"
 date: "May 14, 2024"
-format: html
+format: 
+  html:
+    css: styles.css
+    toc: true
+    toc-location: left
 ---
 
 # Introduction
 
-Hello! My name is *Heng Yu Xin*. Welcome to my personal Quarto document where I share a bit about myself, my background, interests, and future aspirations.
+:::: {.columns}
+::: {.column width="40%"}
+
+<img src="images/my_photo.jpg" alt="Photo About Myself" class="profile-pic">
+:::
+
+
+::: {.column width="50%"}
+Hello! My name is **Heng Yu Xin**. I am passionate about programming and technology. This document provides a brief overview of my background, interests, and skills.
+:::
+
+::::
 
 # Background
 
-## Early Life
+I was born and raised in Johor Bahru, Malaysia. I have always been fascinated by how things work, which led me to pursue a career in programming. I studied Applied Artificial Intelligence at Singapore Institute of Technology, where I developed a strong foundation in Machine Learning and Data Cleaning.
 
-I was born and raised in Malaysia, Johor Bahru, where I developed a keen interest in [Your Early Interests/Hobbies]. Growing up, I was always fascinated by [A Specific Interest or Activity], which laid the foundation for my future pursuits.
+# Interests
 
-## Education
+Outside of programming, I have a variety of interests:
 
-I attended [Your School/University], where I majored in [Your Major/Field of Study]. My educational journey has been marked by a strong passion for [A Subject You Love], and I have been fortunate to learn from some of the best educators in the field.
+- **Hobbies:** I enjoy reading, playing piano and watch drama/movies.
+- **Music:** I listen to various languages of music such as English, Mandarin, Korean as well as Japanese
 
-# Interests and Hobbies
+# Skills
 
-## Programming
+Over the years, I have acquired a diverse set of skills:
 
-One of my primary interests is programming. I enjoy solving complex problems and creating innovative solutions through code. Some of the programming languages I am proficient in include:
+- **Programming Languages:** Python, Java, JavaScript, R, MySQL
+- **Web Development:** HTML, CSS, Node.js
+- **Data Analysis:** SQL, R, Pandas
+- **Technical Skills:** Machine Learning, Deep Learning, Data Modelling, Data Visualisation
+- **Soft Skills:** Time Management, Adaptability
 
-- [Programming Language 1]
-- [Programming Language 2]
-- [Programming Language 3]
+# Contact
 
-## Other Hobbies
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yu-xin-heng){target="_blank"}.
 
-In addition to programming, I have a variety of other hobbies that I enjoy in my free time:
-
-- **Reading:** I love reading books on a wide range of topics, including [Favorite Genre or Subject].
-- **Sports:** I am an avid [Sport You Play] player and enjoy staying active.
-- **Traveling:** Exploring new places and experiencing different cultures is something I am passionate about.
-
-# Future Aspirations
-
-Looking ahead, I aspire to [Your Career Goal or Personal Ambition]. I am particularly interested in [A Specific Area of Interest], and I hope to make significant contributions to this field through my work.
-
-## Career Goals
-
-My long-term career goals include:
-
-- [Career Goal 1]
-- [Career Goal 2]
-- [Career Goal 3]
-
-## Personal Goals
-
-On a personal level, I aim to:
-
-- [Personal Goal 1]
-- [Personal Goal 2]
-- [Personal Goal 3]
-
-# Conclusion
-
-Thank you for taking the time to read about me. I am excited about the future and the opportunities that lie ahead. If you would like to connect or learn more about my work, feel free to reach out to me.
-
----
-
-Feel free to modify and add more sections as you see fit. This is a basic template to get you started on creating a detailed and personal Quarto document about yourself.
+Thank you for taking the time to read about me!
