@@ -1,0 +1,66 @@
+---
+title: "About Me"
+author: "Heng Yu Xin"
+date: "May 14, 2024"
+format: html
+---
+
+# Introduction
+
+Hello! My name is Heng Yu Xin. Welcome to my personal Quarto document where I share a bit about myself, my background, interests, and future aspirations.
+
+# Background
+
+## Early Life
+
+I was born and raised in [Your Hometown], where I developed a keen interest in [Your Early Interests/Hobbies]. Growing up, I was always fascinated by [A Specific Interest or Activity], which laid the foundation for my future pursuits.
+
+## Education
+
+I attended [Your School/University], where I majored in [Your Major/Field of Study]. My educational journey has been marked by a strong passion for [A Subject You Love], and I have been fortunate to learn from some of the best educators in the field.
+
+# Interests and Hobbies
+
+## Programming
+
+One of my primary interests is programming. I enjoy solving complex problems and creating innovative solutions through code. Some of the programming languages I am proficient in include:
+
+- [Programming Language 1]
+- [Programming Language 2]
+- [Programming Language 3]
+
+## Other Hobbies
+
+In addition to programming, I have a variety of other hobbies that I enjoy in my free time:
+
+- **Reading:** I love reading books on a wide range of topics, including [Favorite Genre or Subject].
+- **Sports:** I am an avid [Sport You Play] player and enjoy staying active.
+- **Traveling:** Exploring new places and experiencing different cultures is something I am passionate about.
+
+# Future Aspirations
+
+Looking ahead, I aspire to [Your Career Goal or Personal Ambition]. I am particularly interested in [A Specific Area of Interest], and I hope to make significant contributions to this field through my work.
+
+## Career Goals
+
+My long-term career goals include:
+
+- [Career Goal 1]
+- [Career Goal 2]
+- [Career Goal 3]
+
+## Personal Goals
+
+On a personal level, I aim to:
+
+- [Personal Goal 1]
+- [Personal Goal 2]
+- [Personal Goal 3]
+
+# Conclusion
+
+Thank you for taking the time to read about me. I am excited about the future and the opportunities that lie ahead. If you would like to connect or learn more about my work, feel free to reach out to me.
+
+---
+
+Feel free to modify and add more sections as you see fit. This is a basic template to get you started on creating a detailed and personal Quarto document about yourself.

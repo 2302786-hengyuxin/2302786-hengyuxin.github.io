@@ -1,0 +1,109 @@
+---
+title: "Fundamentals of Programming Project"
+author: "Heng Yu Xin"
+date: "May 14, 2024"
+format: 
+  html:
+    css: styles.css
+    toc: true
+    toc-location: left
+---
+
+# Title
+
+**Effect of Released Treated Fukushima Wastewater on Japan Tourism and Fishing Sectors**
+
+## Introduction
+
+Japan initiated the release of treated wastewater from the Fukushima Daiichi nuclear power plant into the Pacific Ocean on August 24, 2023. This wastewater originates from water utilized to cool the nuclear reactors that suffered meltdowns in 2011 following an earthquake and tsunami in the Fukushima region, generating over 130 tons of contaminated water daily. 
+
+Although treated to remove most radionuclide isotopes, Tritium, a radioactive form of hydrogen, remains as it is integral to water and cannot be separated. Assurances have been given that the wastewater, once mixed with seawater, would be sufficiently diluted to pose minimal environmental risk. 
+
+Nevertheless, public concern persists regarding potential long-term effects, prompting our in-depth investigation into the incident’s impacts on Japan's tourism and fishing industries.
+
+# Project Methodology
+
+The section below will provide a concise system introduction as well as elaborate on the details of each process, including *data collection*, *data preprocessing* and *data analysis*.
+
+## System Overview
+
+The purpose of our team web application is to examine the type impacts that the treated Fukushima wastewater release might potentially cause. 
+
+After collecting textual and numeric data related to the incident, we carried out data preprocessing and data modeling such as sentiment analysis and forecasting, as well as data visualization. 
+
+All of the results and insights will be presented in the data analyzer. Our analyzer could also demonstrate accurate forecasting, charts generating, as well as filtering to view the chart.
+
+## Data Collection
+
+1. The team used Browse AI to scrap comments from various social media platforms for sentiment analysis, focusing exclusively on data generated between **July and September 2023**, such as:
+
+  - YouTube
+  - Reddit
+  - Twitter
+  - News outlets
+
+2. From the [Japanese Trade Statistic website](https://www.customs.go.jp/toukei/info/index_e.htm){target="_blank"}, which offers public access to its data, we extracted datasets related to tourism, exports, and imports.
+
+## Data Preprocessing
+
+Below are the methods we carried out to clean different types of data.
+
+| Social Media Comments   | News Content | Numerical Data |
+|---------|----------|-------|
+| Lemmatization     | Extracting Country Information     | Create new columns   |
+| Refining Comment Data     | Identifying Ban Sentences     | Transform the dataframe   |
+| Translating Multilingual Comments to English     | Removal of Stopwords     | Remove irrelevant information   |
+| Dropping Irrelevant Columns and Rows    | Text Cleaning     | Merge data frames   |
+
+: Cleaning Methods for Different Data {.striped .hover}
+
+## Data Analysis and Modelling
+
+After a thorough data cleaning, it is ready to carry out various kinds of data analysis processes to acquire insights and results for our project topic such as:
+
+1. Sentiment Analysis
+2. Text Classification
+3. Forecasting
+
+## Data Visualisation
+
+:::: {.columns}
+::: {.column width="60%"}
+
+![*Social Media Sentiment Analysis* Graph.](images/chart_2.jpg)
+:::
+
+::: {.column width="40%"}
+### Social Media Sentiment Analysis
+Users can visually explore the sentiment analysis of social media comments, with options to view the overall sentiment distribution and generate word clouds to better understand prevailing sentiments. They can also examine specific positive and negative comments, and search for comments containing particular keywords to analyze public sentiment in detail.
+:::
+
+
+::::
+
+:::: {.columns}
+::: {.column width="65%"}
+
+### Food Product Retail Price
+Users can explore an in-depth analysis of the retail prices of various food products, including seafood, vegetables, and fruits. The visualizations, presented in line plots, detail the price trends over time, highlighting specific changes following the release of treated Fukushima radioactive water, and offering insights into the economic impacts on different food sectors.
+:::
+
+::: {.column width="35%"}
+![*Food Product Retail Price* Graph.](images/chart_3.jpg)
+:::
+
+
+::::
+
+# Result and Insights
+
+::: {style="text-align: center;"}
+![**Japan Export Value Forecasting** with Ban Imposed.](images/chart_1.jpg)
+:::
+From the chart above, it is able to observe that Japan's forecasted export values will be the lowest in the case that China banned seafood importing from Japan which accounts for the largest impact to Japan's seafood export sector. On the other hand, the forecasted value will be the highest in the case that Macau terminated seafood imports from Japan which shows Macau has the least impact on Japan’s seafood exports. 
+
+# Conclusion
+Our analysis reveals that several countries have stopped importing seafood from Japan resulting in Japan's seafood export value going down.
+
+However, this incident does not have much impact on the other sectors such as tourism, and seafood retail prices. Based on the trend and insights presented, people are still continuing traveling and spending in Japan as usual. **There wasn’t a noticeable fluctuation in retail prices after the incident**. 
+
