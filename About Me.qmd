@@ -7,13 +7,13 @@ format: html
 
 # Introduction
 
-Hello! My name is Heng Yu Xin. Welcome to my personal Quarto document where I share a bit about myself, my background, interests, and future aspirations.
+Hello! My name is *Heng Yu Xin*. Welcome to my personal Quarto document where I share a bit about myself, my background, interests, and future aspirations.
 
 # Background
 
 ## Early Life
 
-I was born and raised in [Your Hometown], where I developed a keen interest in [Your Early Interests/Hobbies]. Growing up, I was always fascinated by [A Specific Interest or Activity], which laid the foundation for my future pursuits.
+I was born and raised in Malaysia, Johor Bahru, where I developed a keen interest in [Your Early Interests/Hobbies]. Growing up, I was always fascinated by [A Specific Interest or Activity], which laid the foundation for my future pursuits.
 
 ## Education
 
