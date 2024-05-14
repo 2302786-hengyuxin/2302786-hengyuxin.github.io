@@ -11,6 +11,8 @@ website:
       text: About Me
     - href: Project.qmd
       text: Project in Y1T1 
+    - href: Movie.qmd
+      text: Movie 
     - href: index.qmd
       text: Temp
     - about.qmd
