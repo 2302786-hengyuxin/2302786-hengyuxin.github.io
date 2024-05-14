@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "Movie.html",
+    "href": "Movie.html",
+    "title": "Movie Recommendation: Talk to Me",
+    "section": "",
+    "text": "Introduction\n\n\n\n\nInception Movie Poster\n\n\n\nTalk to Me is a 2022 Australian supernatural horror film directed by Danny and Michael Philippou in their feature directorial debuts, written by Danny Philippou and Bill Hinzman, and based on a concept by Daley Pearson. It stars Sophie Wilde, Alexandra Jensen, Joe Bird, Otis Dhanji, Miranda Otto, and Zoe Terakes. The film follows a group of teenagers who discover they are able to contact spirits using a mysterious severed and embalmed hand.\nTalk to Me premiered at the Adelaide Film Festival on 30 October 2022, and was released by Maslow Entertainment, Umbrella Entertainment, and Ahi Films in Australia on 27 July 2023. The film received acclaim from critics, who praised its story, direction, horror sequences, practical effects, sound design and performances, with Wilde and Bird receiving particular praise. It was a box office success, grossing approximately $91.9 million[2][3] worldwide against a $4.5 million budget, becoming American distributor A24’s highest-grossing horror film and third highest-grossing film overall. A sequel is currently in development.\n\n\nTrailer\n\n\n\nPlot Summary\nAt a house party in Adelaide, Cole searches for his brother Duckett. When he finds Duckett and attempts to bring him home, Duckett stabs Cole and kills himself.\nSome time later, 17-year-old Mia is struggling with the second anniversary of her mother Rhea’s suicide by sleeping pill overdose and her distant relationship with her father Max. Mia, her best friend Jade, and Jade’s little brother Riley sneak out to a gathering hosted by Hayley and Joss, where the main attraction is a severed and embalmed hand. Holding the hand and saying “talk to me” enables someone to communicate with a deceased person’s spirit, while saying “I let you in” allows the spirit to possess them. In order to prevent spirits from binding themselves to that person, someone else must end the possession before 90 seconds by pulling away the embalmed hand and blowing out a candle to cut the connection. Mia volunteers to go first and is possessed by a spirit that displays a menacing focus on Riley. Joss and Hayley struggle to break the connection and the time limit is slightly exceeded.\nEcstatic over the experience, Mia joins Hayley, Joss, and Jade’s boyfriend Daniel at Jade’s house the next night. Everyone except for Riley and his friend James take several turns being possessed, invoking different spirits each time. Jade refuses to let Riley participate, but all of the others indulge. When Jade leaves the room, Riley insists and Mia lets him take a turn for 50 seconds. Riley appears to be possessed by the spirit of Rhea, who attempts to reconcile with Mia. Stunned, Mia stops the group from ending the possession in time to keep talking to her mother. Riley’s body is overtaken by the spirits and they make him violently attempt suicide; he is hospitalized in critical condition.\nMia, now haunted by visions of Rhea, is blamed for Riley’s injuries and shunned by Jade and her mother Sue. Having secretly taken the embalmed hand, Mia offers Daniel to stay for the night at her father’s house. Whilst platonically sharing a bed with Daniel, she witnesses a spirit appear and suck on Daniel’s feet. When he wakes up, he instead sees Mia sucking his feet in a trance and leaves. Mia uses the hand to contact Rhea, who insists that her death was accidental and that she needs to help Riley, who is still possessed and attempts suicide every time he returns to consciousness. Mia leaves the connection open and begins seeing her mother without the hand, losing her grasp on reality.\nThe friends track down Cole, who explains that a living body naturally expels invading spirits. Mia, fearing that Riley may not have time, attempts to contact him in the hospital by using the hand but is instead shown a vision of Riley being tortured by spirits in limbo. At home, Max reads Rhea’s suicide note to Mia and apologises for hiding the truth from her. Rhea’s spirit tells Mia that Max is lying, and Mia hallucinates that she is being violently attacked by Max, causing her to inadvertently stab the real Max. Rhea tells Mia that Riley needs to die in order to be set free from his possession. Mia kidnaps Riley from the hospital and Jade sees Mia pushing Riley in a wheelchair toward the highway. Rhea attempts to convince Mia to push Riley into oncoming traffic, but instead Mia jumps into the oncoming traffic and lies badly injured on the road.\nMia finds herself in the hospital, where she sees a fully recovered Riley talking to Jade and Sue while Max leaves in an elevator. Nobody responds to her, she has no reflection in the mirror and her hands are disfigured. After becoming engulfed in darkness, she sees a hand extended over a candle in the distance. She grabs it and is suddenly summoned to a house party in Greece, where a partygoer holding her hand is urged to speak and tells Mia “I let you in.”"
+  },
+  {
+    "objectID": "temp_website.html",
+    "href": "temp_website.html",
+    "title": "temp_website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "temp_website.html#quarto",
+    "href": "temp_website.html#quarto",
+    "title": "temp_website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "temp_website.html#running-code",
+    "href": "temp_website.html#running-code",
+    "title": "temp_website",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "About Me.html",
+    "href": "About Me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Introduction\n\n\n\n\nHello! My name is Heng Yu Xin. I am passionate about programming and technology. This document provides a brief overview of my background, interests, and skills.\n\n\n\n\nBackground\nI was born and raised in Johor Bahru, Malaysia. I have always been fascinated by how things work, which led me to pursue a career in programming. I studied Applied Artificial Intelligence at Singapore Institute of Technology, where I developed a strong foundation in Machine Learning and Data Cleaning.\n\n\nInterests\nOutside of programming, I have a variety of interests:\n\nHobbies: I enjoy reading, playing piano and watch drama/movies.\nMusic: I listen to various languages of music such as English, Mandarin, Korean as well as Japanese\n\n\n\nSkills\nOver the years, I have acquired a diverse set of skills:\n\nProgramming Languages: Python, Java, JavaScript, R, MySQL\nWeb Development: HTML, CSS, Node.js\nData Analysis: SQL, R, Pandas\nTechnical Skills: Machine Learning, Deep Learning, Data Modelling, Data Visualisation\nSoft Skills: Time Management, Adaptability\n\n\n\nContact\nFeel free to reach out to me through LinkedIn.\nThank you for taking the time to read about me!"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Fundamentals of Programming Project",
+    "section": "",
+    "text": "Effect of Released Treated Fukushima Wastewater on Japan Tourism and Fishing Sectors\n\n\nJapan initiated the release of treated wastewater from the Fukushima Daiichi nuclear power plant into the Pacific Ocean on August 24, 2023. This wastewater originates from water utilized to cool the nuclear reactors that suffered meltdowns in 2011 following an earthquake and tsunami in the Fukushima region, generating over 130 tons of contaminated water daily.\nAlthough treated to remove most radionuclide isotopes, Tritium, a radioactive form of hydrogen, remains as it is integral to water and cannot be separated. Assurances have been given that the wastewater, once mixed with seawater, would be sufficiently diluted to pose minimal environmental risk.\nNevertheless, public concern persists regarding potential long-term effects, prompting our in-depth investigation into the incident’s impacts on Japan’s tourism and fishing industries."
+  },
+  {
+    "objectID": "Project.html#introduction",
+    "href": "Project.html#introduction",
+    "title": "Fundamentals of Programming Project",
+    "section": "",
+    "text": "Japan initiated the release of treated wastewater from the Fukushima Daiichi nuclear power plant into the Pacific Ocean on August 24, 2023. This wastewater originates from water utilized to cool the nuclear reactors that suffered meltdowns in 2011 following an earthquake and tsunami in the Fukushima region, generating over 130 tons of contaminated water daily.\nAlthough treated to remove most radionuclide isotopes, Tritium, a radioactive form of hydrogen, remains as it is integral to water and cannot be separated. Assurances have been given that the wastewater, once mixed with seawater, would be sufficiently diluted to pose minimal environmental risk.\nNevertheless, public concern persists regarding potential long-term effects, prompting our in-depth investigation into the incident’s impacts on Japan’s tourism and fishing industries."
+  },
+  {
+    "objectID": "Project.html#system-overview",
+    "href": "Project.html#system-overview",
+    "title": "Fundamentals of Programming Project",
+    "section": "System Overview",
+    "text": "System Overview\nThe purpose of our team web application is to examine the type impacts that the treated Fukushima wastewater release might potentially cause.\nAfter collecting textual and numeric data related to the incident, we carried out data preprocessing and data modeling such as sentiment analysis and forecasting, as well as data visualization.\nAll of the results and insights will be presented in the data analyzer. Our analyzer could also demonstrate accurate forecasting, charts generating, as well as filtering to view the chart."
+  },
+  {
+    "objectID": "Project.html#data-collection",
+    "href": "Project.html#data-collection",
+    "title": "Fundamentals of Programming Project",
+    "section": "Data Collection",
+    "text": "Data Collection\n\nThe team used Browse AI to scrap comments from various social media platforms for sentiment analysis, focusing exclusively on data generated between July and September 2023, such as:\n\n\nYouTube\nReddit\nTwitter\nNews outlets\n\n\nFrom the Japanese Trade Statistic website, which offers public access to its data, we extracted datasets related to tourism, exports, and imports."
+  },
+  {
+    "objectID": "Project.html#data-preprocessing",
+    "href": "Project.html#data-preprocessing",
+    "title": "Fundamentals of Programming Project",
+    "section": "Data Preprocessing",
+    "text": "Data Preprocessing\nBelow are the methods we carried out to clean different types of data.\n\nCleaning Methods for Different Data\n\n\n\n\n\n\n\nSocial Media Comments\nNews Content\nNumerical Data\n\n\n\n\nLemmatization\nExtracting Country Information\nCreate new columns\n\n\nRefining Comment Data\nIdentifying Ban Sentences\nTransform the dataframe\n\n\nTranslating Multilingual Comments to English\nRemoval of Stopwords\nRemove irrelevant information\n\n\nDropping Irrelevant Columns and Rows\nText Cleaning\nMerge data frames"
+  },
+  {
+    "objectID": "Project.html#data-analysis-and-modelling",
+    "href": "Project.html#data-analysis-and-modelling",
+    "title": "Fundamentals of Programming Project",
+    "section": "Data Analysis and Modelling",
+    "text": "Data Analysis and Modelling\nAfter a thorough data cleaning, it is ready to carry out various kinds of data analysis processes to acquire insights and results for our project topic such as:\n\nSentiment Analysis\nText Classification\nForecasting"
+  },
+  {
+    "objectID": "Project.html#data-visualisation",
+    "href": "Project.html#data-visualisation",
+    "title": "Fundamentals of Programming Project",
+    "section": "Data Visualisation",
+    "text": "Data Visualisation\n\n\n\n\n\nSocial Media Sentiment Analysis Graph.\n\n\n\n\nSocial Media Sentiment Analysis\nUsers can visually explore the sentiment analysis of social media comments, with options to view the overall sentiment distribution and generate word clouds to better understand prevailing sentiments. They can also examine specific positive and negative comments, and search for comments containing particular keywords to analyze public sentiment in detail.\n\n\n\n\n\n\nFood Product Retail Price\nUsers can explore an in-depth analysis of the retail prices of various food products, including seafood, vegetables, and fruits. The visualizations, presented in line plots, detail the price trends over time, highlighting specific changes following the release of treated Fukushima radioactive water, and offering insights into the economic impacts on different food sectors.\n\n\n\n\n\nFood Product Retail Price Graph."
+  }
+]
